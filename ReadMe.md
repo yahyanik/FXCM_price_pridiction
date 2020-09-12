@@ -1,0 +1,1 @@
+These files are just fun times with the ConvLSTMs to see if I can get something useful out of them. Please run the Trainer to underestand what happens in trainiing run tester to look at the test results.
